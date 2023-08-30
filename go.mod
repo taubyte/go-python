@@ -1,3 +1,3 @@
-module github.com/tliron/py4go
+module github.com/taubyte/go-python
 
-go 1.17
+go 1.19
